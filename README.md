@@ -1,4 +1,4 @@
-# BetBot
+# BetBot o mejor llamado ruletaBot
 
 BetBot es un script que juega automáticamente a la ruleta en un casino online con el método Martingala.
  
